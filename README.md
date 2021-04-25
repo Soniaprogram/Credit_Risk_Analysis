@@ -22,10 +22,10 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 #### BalancedRandomForestClassifier
-[img5]
+![img5](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/5randomforest.PNG)
 
 #### EasyEnsembleClassifier
-[img6]
+![img6](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/6eeadaboost.PNG)
 
 ## Summary
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
