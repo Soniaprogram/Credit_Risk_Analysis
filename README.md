@@ -6,22 +6,25 @@ Overview of the analysis: Explain the purpose of this analysis.
 ## Results
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-#### Oversampling RandomOverSampler
+### Deliverable 1: Use Resampling Models to Predict Credit Risk
+#### Oversampling - RandomOverSampler
 [img1]
 
-#### Oversampling SMOTE
+#### Oversampling - SMOTE
 [img2]
 
-#### Undersampling ClusterCentroids
+#### Undersampling - ClusterCentroids
 [img3]
 
+### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 #### Combinational Oversampling and Undersampling SMOTEENN
 [img4]
 
-#### Ensemble Classifier BalancedRandomForestClassifier
+### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
+#### BalancedRandomForestClassifier
 [img5]
 
-#### Ensemble Classifier EasyEnsembleClassifier
+#### EasyEnsembleClassifier
 [img6]
 
 ## Summary
