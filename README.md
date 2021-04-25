@@ -13,35 +13,40 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 ![img1](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/1randomoversampler.PNG)
 
 * The balanced accuracy score was 62.6%
-* The high-risk precision is 1% with a recall of 59%
+* The high-risk precision was 1% with a recall of 59%
 
 #### Oversampling - SMOTE Mode
 ![img2](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/2smote.PNG)
 
 * The balanced accuracy score was 63.0%
-* The total precision is 99% with a sensitivity of 66%
+* The high-risk precision was 1% with a recall of 62%
 
 #### Undersampling - ClusterCentroids Model
 ![img3](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/3undersamplingclustercentroids.PNG)
 
 * The balanced accuracy score was 51.0%
+* The high-risk precision was 1% with a recall of 59%
 
 ### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 #### Combinational Oversampling and Undersampling SMOTEENN Model
 ![img4](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/4combinationsmoteenn.PNG)
 
 * The balanced accuracy score was 64.5%
+* The high-risk precision was 1% with a recall of 69%
 
 ### Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 #### BalancedRandomForestClassifier Model
 ![img5](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/5randomforest.PNG)
 
 * The balanced accuracy score was 78.8%
+* The high-risk precision was 4% with a recall of 67%
 
 #### EasyEnsembleClassifier Model
 ![img6](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/6eeadaboost.PNG)
 
 * The balanced accuracy score was 92.5%
+* The high-risk precision was 7% with a recall of 91%
+
 
 ## Summary
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
