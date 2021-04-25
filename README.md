@@ -13,11 +13,13 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 ![img1](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/1randomoversampler.PNG)
 
 * The balanced accuracy score was 62.6%
+* The high-risk precision is 1% with a recall of 59%
 
 #### Oversampling - SMOTE Mode
 ![img2](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/2smote.PNG)
 
 * The balanced accuracy score was 63.0%
+* The total precision is 99% with a sensitivity of 66%
 
 #### Undersampling - ClusterCentroids Model
 ![img3](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/3undersamplingclustercentroids.PNG)
