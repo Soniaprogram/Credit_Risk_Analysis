@@ -8,13 +8,13 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk
 #### Oversampling - RandomOverSampler
-[img1]
+[img1](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/1randomoversampler.PNG)
 
 #### Oversampling - SMOTE
-[img2]
+[img2](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/2smote.PNG)
 
 #### Undersampling - ClusterCentroids
-[img3]
+[img3](https://github.com/Soniaprogram/Credit_Risk_Analysis/blob/main/images/3undersamplingclustercentroids.PNG)
 
 ### Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk
 #### Combinational Oversampling and Undersampling SMOTEENN
