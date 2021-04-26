@@ -6,7 +6,6 @@ In this analysis, I have applied machine learning to evaluate credit card risk. 
 Using the credit card dataset from Lending Club, a peer-to-peer lending services company, I oversampled the data using the <b>RandomOverSampler</b> and <b>SMOTE</b> algorithms and undersampled the data using the <b>ClusterCentroids</b> algorithm. I then used a combinational approach of oversampling and undersampling the data using the <b>SMOTEENN</b> algorithm. I also used and compared two machine learning models that reduce bias, <b>BalancedRandomForestClassifier</b> and <b>EasyEnsembleClassifier</b> to predict credit risk. Overall, through this analysis I was able to evaluate the performance of all these models in regards to predicting credit risk.
 
 ## Results
-Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk
 #### Oversampling - RandomOverSampler
